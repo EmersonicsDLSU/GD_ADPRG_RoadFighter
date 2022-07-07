@@ -1,0 +1,337 @@
+﻿  AComponent.cpp
+  AGameObject.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\AGameObject.cpp(13,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\AGameObject.cpp(17,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\AGameObject.cpp(41,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\AGameObject.cpp(47,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\AGameObject.cpp(58,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\AGameObject.cpp(63,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\AGameObject.cpp(73,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\AGameObject.cpp(78,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\AGameObject.cpp(92,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\AGameObject.cpp(121,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\AGameObject.cpp(136,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\AGameObject.cpp(148,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\AGameObject.cpp(161,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\AGameObject.cpp(173,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\AGameObject.cpp(179,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\AGameObject.cpp(190,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\AGameObject.cpp(196,20): warning C4018: '<': signed/unsigned mismatch
+  AirplanePlayer.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  AirplaneSupport.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\AirplaneSupport.cpp(16,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\AirplaneSupport.cpp(16,34): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  AirplaneSupportMovement.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\AirplaneSupportMovement.cpp(19,8): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  APoolable.cpp
+  ApplicationManager.cpp
+  AScene.cpp
+  BGMovement.cpp
+  BGObject.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  BGObject2.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  BGObject3.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  BonusCarBehavior.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\BonusCarBehavior.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\BonusCarBehavior.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\BonusCarBehavior.cpp(65,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\BonusCarBehavior.cpp(91,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  BonusCarObject.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\BonusCarObject.cpp(45,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\BonusCarObject.cpp(45,34): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  BulletBehavior.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\BulletBehavior.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  BulletHandler.cpp
+  Collider.cpp
+  DebugRendererFactory.cpp
+  EmptyGameObject.cpp
+  EnemyAirplane.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\EnemyAirplane.cpp(46,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\EnemyAirplane.cpp(46,34): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Generating Code...
+  Compiling...
+  EnemyBehavior.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\EnemyBehavior.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\EnemyBehavior.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\EnemyBehavior.cpp(77,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\EnemyBehavior.cpp(103,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  EnemySwarmHandler.cpp
+  Entity.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  finishBehavior.cpp
+  finishObject.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\finishObject.cpp(21,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\finishObject.cpp(21,34): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  FontManager.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\FontManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Game.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\FontManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  GameObjectManager.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\GameObjectManager.cpp(36,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\GameObjectManager.cpp(43,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\GameObjectManager.cpp(51,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\GameObjectManager.cpp(85,20): warning C4018: '<': signed/unsigned mismatch
+  GameObjectPool.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\GameObjectPool.cpp(51,21): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\GameObjectPool.cpp(91,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\GameObjectPool.cpp(111,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\GameObjectPool.cpp(129,20): warning C4018: '<': signed/unsigned mismatch
+  GameScene.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\GameScene.cpp(95,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\GameScene.cpp(167,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GameScene2.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\GameScene2.cpp(92,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\GameScene2.cpp(164,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GameScene3.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\GameScene3.cpp(92,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\GameScene3.cpp(164,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GameSystem.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\GameSystem.cpp(75,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\GameSystem.cpp(201,13): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\GameSystem.cpp(288,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  GenericInputController.cpp
+  HUDScreen.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\HUDScreen.cpp(27,59): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\HUDScreen.cpp(27,40): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  InstructionsMenu.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\InstructionsMenu.cpp(26,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\InstructionsMenu.cpp(26,34): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  JSONParser.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\JSONParser.cpp(2,1): warning C4005: '_CRT_SECURE_NO_DEPRECATE': macro redefinition
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\JSONParser.cpp : message : see previous definition of '_CRT_SECURE_NO_DEPRECATE'
+  Main.cpp
+  MainMenuScene.cpp
+  MainMenuScreen.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\MainMenuScreen.cpp(31,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\MainMenuScreen.cpp(31,34): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Generating Code...
+  Compiling...
+  ObjectPoolHolder.cpp
+  OilBehavior.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\OilBehavior.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\OilBehavior.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\OilBehavior.cpp(65,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\OilBehavior.cpp(91,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  OilObject.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\OilObject.cpp(45,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\OilObject.cpp(45,34): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  PhysicsManager.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\PhysicsManager.cpp(99,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\PhysicsManager.cpp(119,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\PhysicsManager.cpp(132,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\PhysicsManager.cpp(134,18): warning C4018: '<': signed/unsigned mismatch
+  PlayerInputController.cpp
+  PlayerMovement.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\PlayerMovement.cpp(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  ProgressBar.cpp
+  ProgressCarBehavior.cpp
+  ProgressCarObject.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\ProgressCarObject.cpp(31,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\ProgressCarObject.cpp(31,34): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  QuitScreen.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\QuitScreen.cpp(26,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\QuitScreen.cpp(26,34): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Renderer.cpp
+  RendererFactory.cpp
+  SamplePopupScreen.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\SamplePopupScreen.cpp(29,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\SamplePopupScreen.cpp(29,34): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  SceneManager.cpp
+  SFXManager.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\SFXManager.cpp(65,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SpriteRenderer.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\SpriteRenderer.cpp(9,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\SpriteRenderer.cpp(9,34): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  StartMovement.cpp
+  startObject.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\startObject.cpp(18,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\startObject.cpp(18,34): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  TextRenderer.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\FontManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TextRenderer.cpp(12,25): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  TextureManager.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  Compiling...
+  TruckObject.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TruckObject.cpp(49,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TruckObject.cpp(49,34): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  TruckObjectBehavior.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TruckObjectBehavior.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TruckObjectBehavior.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TruckObjectBehavior.cpp(65,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TruckObjectBehavior.cpp(91,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  UIButton.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\UIButton.cpp(24,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\UIButton.cpp(24,34): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  UIButtonInputController.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\UIButtonInputController.cpp(25,63): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\UIButtonInputController.cpp(25,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  UIText.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\FontManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  UtilityBullet.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\UtilityBullet.cpp(25,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\UtilityBullet.cpp(25,34): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Generating Code...
+  GDPROG3_MP_CREENCIA_CELESTIAL.vcxproj -> C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\Debug\GDPROG3_MP_CREENCIA_CELESTIAL.exe

@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="AComponent.cpp" />
+    <ClCompile Include="AGameObject.cpp" />
+    <ClCompile Include="AirplanePlayer.cpp" />
+    <ClCompile Include="AirplaneSupport.cpp" />
+    <ClCompile Include="AirplaneSupportMovement.cpp" />
+    <ClCompile Include="APoolable.cpp" />
+    <ClCompile Include="ApplicationManager.cpp" />
+    <ClCompile Include="AScene.cpp" />
+    <ClCompile Include="BGMovement.cpp" />
+    <ClCompile Include="BGObject.cpp" />
+    <ClCompile Include="BGObject2.cpp" />
+    <ClCompile Include="BGObject3.cpp" />
+    <ClCompile Include="BonusCarBehavior.cpp" />
+    <ClCompile Include="BonusCarObject.cpp" />
+    <ClCompile Include="BulletBehavior.cpp" />
+    <ClCompile Include="BulletHandler.cpp" />
+    <ClCompile Include="Collider.cpp" />
+    <ClCompile Include="DebugRendererFactory.cpp" />
+    <ClCompile Include="EmptyGameObject.cpp" />
+    <ClCompile Include="EnemyAirplane.cpp" />
+    <ClCompile Include="EnemyBehavior.cpp" />
+    <ClCompile Include="EnemySwarmHandler.cpp" />
+    <ClCompile Include="Entity.cpp" />
+    <ClCompile Include="finishBehavior.cpp" />
+    <ClCompile Include="finishObject.cpp" />
+    <ClCompile Include="FontManager.cpp" />
+    <ClCompile Include="Game.cpp" />
+    <ClCompile Include="GameObjectManager.cpp" />
+    <ClCompile Include="GameObjectPool.cpp" />
+    <ClCompile Include="GameScene.cpp" />
+    <ClCompile Include="GameScene2.cpp" />
+    <ClCompile Include="GameScene3.cpp" />
+    <ClCompile Include="GameSystem.cpp" />
+    <ClCompile Include="GenericInputController.cpp" />
+    <ClCompile Include="HUDScreen.cpp" />
+    <ClCompile Include="InstructionsMenu.cpp" />
+    <ClCompile Include="JSONParser.cpp" />
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="MainMenuScene.cpp" />
+    <ClCompile Include="MainMenuScreen.cpp" />
+    <ClCompile Include="ObjectPoolHolder.cpp" />
+    <ClCompile Include="OilBehavior.cpp" />
+    <ClCompile Include="OilObject.cpp" />
+    <ClCompile Include="PhysicsManager.cpp" />
+    <ClCompile Include="PlayerInputController.cpp" />
+    <ClCompile Include="PlayerMovement.cpp" />
+    <ClCompile Include="ProgressBar.cpp" />
+    <ClCompile Include="ProgressCarBehavior.cpp" />
+    <ClCompile Include="ProgressCarObject.cpp" />
+    <ClCompile Include="QuitScreen.cpp" />
+    <ClCompile Include="Renderer.cpp" />
+    <ClCompile Include="RendererFactory.cpp" />
+    <ClCompile Include="SamplePopupScreen.cpp" />
+    <ClCompile Include="SceneManager.cpp" />
+    <ClCompile Include="SFXManager.cpp" />
+    <ClCompile Include="SpriteRenderer.cpp" />
+    <ClCompile Include="StartMovement.cpp" />
+    <ClCompile Include="startObject.cpp" />
+    <ClCompile Include="TextRenderer.cpp" />
+    <ClCompile Include="TextureManager.cpp" />
+    <ClCompile Include="TruckObject.cpp" />
+    <ClCompile Include="TruckObjectBehavior.cpp" />
+    <ClCompile Include="UIButton.cpp" />
+    <ClCompile Include="UIButtonInputController.cpp" />
+    <ClCompile Include="UIText.cpp" />
+    <ClCompile Include="UtilityBullet.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AComponent.h" />
+    <ClInclude Include="AGameObject.h" />
+    <ClInclude Include="AirplanePlayer.h" />
+    <ClInclude Include="AirplaneSupport.h" />
+    <ClInclude Include="AirplaneSupportMovement.h" />
+    <ClInclude Include="APoolable.h" />
+    <ClInclude Include="ApplicationManager.h" />
+    <ClInclude Include="ARendererFactory.h" />
+    <ClInclude Include="AScene.h" />
+    <ClInclude Include="BGMovement.h" />
+    <ClInclude Include="BGObject.h" />
+    <ClInclude Include="BGObject2.h" />
+    <ClInclude Include="BGObject3.h" />
+    <ClInclude Include="BonusCarBehavior.h" />
+    <ClInclude Include="BonusCarObject.h" />
+    <ClInclude Include="BulletBehavior.h" />
+    <ClInclude Include="BulletHandler.h" />
+    <ClInclude Include="ButtonListener.h" />
+    <ClInclude Include="Collider.h" />
+    <ClInclude Include="CollisionListener.h" />
+    <ClInclude Include="DebugRendererFactory.h" />
+    <ClInclude Include="EmptyGameObject.h" />
+    <ClInclude Include="EnemyAirplane.h" />
+    <ClInclude Include="EnemyBehavior.h" />
+    <ClInclude Include="EnemySwarmHandler.h" />
+    <ClInclude Include="Entity.h" />
+    <ClInclude Include="finishBehavior.h" />
+    <ClInclude Include="finishObject.h" />
+    <ClInclude Include="FontManager.h" />
+    <ClInclude Include="Game.h" />
+    <ClInclude Include="GameObjectManager.h" />
+    <ClInclude Include="GameObjectPool.h" />
+    <ClInclude Include="GameScene.h" />
+    <ClInclude Include="GameScene2.h" />
+    <ClInclude Include="GameScene3.h" />
+    <ClInclude Include="GameSystem.h" />
+    <ClInclude Include="GenericInputController.h" />
+    <ClInclude Include="HUDScreen.h" />
+    <ClInclude Include="InstructionsMenu.h" />
+    <ClInclude Include="JSONParser.h" />
+    <ClInclude Include="MainMenuScene.h" />
+    <ClInclude Include="MainMenuScreen.h" />
+    <ClInclude Include="ObjectPoolHolder.h" />
+    <ClInclude Include="OilBehavior.h" />
+    <ClInclude Include="OilObject.h" />
+    <ClInclude Include="PhysicsManager.h" />
+    <ClInclude Include="PlayerInputController.h" />
+    <ClInclude Include="PlayerMovement.h" />
+    <ClInclude Include="ProgressBar.h" />
+    <ClInclude Include="ProgressCarBehavior.h" />
+    <ClInclude Include="ProgressCarObject.h" />
+    <ClInclude Include="QuitScreen.h" />
+    <ClInclude Include="Renderer.h" />
+    <ClInclude Include="RendererFactory.h" />
+    <ClInclude Include="SamplePopupScreen.h" />
+    <ClInclude Include="SceneManager.h" />
+    <ClInclude Include="SFXManager.h" />
+    <ClInclude Include="SpriteRenderer.h" />
+    <ClInclude Include="StartMovement.h" />
+    <ClInclude Include="startObject.h" />
+    <ClInclude Include="TextRenderer.h" />
+    <ClInclude Include="TextureManager.h" />
+    <ClInclude Include="TruckObject.h" />
+    <ClInclude Include="TruckObjectBehavior.h" />
+    <ClInclude Include="UIButton.h" />
+    <ClInclude Include="UIButtonInputController.h" />
+    <ClInclude Include="UIText.h" />
+    <ClInclude Include="UtilityBullet.h" />
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>16.0</VCProjectVersion>
+    <Keyword>Win32Proj</Keyword>
+    <ProjectGuid>{e4703d57-c9b1-4cba-a63e-c7cea81aa55b}</ProjectGuid>
+    <RootNamespace>GDPROG3MPCREENCIACELESTIAL</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;_CRT_SECURE_NO_DEPRECATE;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\SFML-2.5.1\rapidjson-1.1.0\include;C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\SFML-2.5.1\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\SFML-2.5.1\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>sfml-system-d.lib;sfml-graphics-d.lib;sfml-audio-d.lib;sfml-network-d.lib;sfml-window-d.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;_CRT_SECURE_NO_DEPRECATE;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\SFML-2.5.1\rapidjson-1.1.0\include;C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\SFML-2.5.1\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\SFML-2.5.1\lib;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>sfml-system.lib;sfml-graphics.lib;sfml-audio.lib;sfml-network.lib;sfml-window.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_DEBUG;_CONSOLE;_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>C:\Users\11929057\Desktop\SFML-2.5.1\rapidjson-1.1.0\include;C:\Users\11929057\Desktop\SFML-2.5.1\include</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>opengl32.lib;freetype.lib;winmm.lib;gdi32.lib;openal32.lib;flac.lib;vorbisenc.lib;vorbisfile.lib;vorbis.lib;ogg.lib;ws2_32.lib;sfml-system-d.lib;sfml-graphics-d.lib;sfml-audio-d.lib;sfml-network-d.lib;sfml-window-d.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <TargetMachine>MachineX64</TargetMachine>
+      <AdditionalLibraryDirectories>C:\Users\11929057\Desktop\SFML-2.5.1\lib</AdditionalLibraryDirectories>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>NDEBUG;_CONSOLE;_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>C:\Users\11929057\Desktop\SFML-2.5.1\rapidjson-1.1.0\include;C:\Users\11929057\Desktop\SFML-2.5.1\include</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>opengl32.lib;freetype.lib;winmm.lib;gdi32.lib;openal32.lib;flac.lib;vorbisenc.lib;vorbisfile.lib;vorbis.lib;ogg.lib;ws2_32.lib;sfml-graphics-s.lib;sfml-window-s.lib;sfml-audio-s.lib;sfml-network-s.lib;sfml-system-s.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <TargetMachine>MachineX64</TargetMachine>
+      <AdditionalLibraryDirectories>C:\Users\11929057\Desktop\SFML-2.5.1\lib</AdditionalLibraryDirectories>
+    </Link>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

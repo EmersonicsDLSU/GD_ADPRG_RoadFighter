@@ -1,0 +1,644 @@
+﻿  AComponent.cpp
+  AGameObject.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\AGameObject.cpp(220,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  AirplanePlayer.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  AirplaneSupport.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\AirplaneSupport.cpp(16,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\AirplaneSupport.cpp(16,34): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  AirplaneSupportMovement.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\AirplaneSupportMovement.cpp(19,8): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  APoolable.cpp
+  ApplicationManager.cpp
+  AScene.cpp
+  BGMovement.cpp
+  BGObject.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  BGObject2.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  BGObject3.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  BonusCarBehavior.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\BonusCarBehavior.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\BonusCarBehavior.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\BonusCarBehavior.cpp(65,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\BonusCarBehavior.cpp(91,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  BonusCarObject.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\BonusCarObject.cpp(45,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\BonusCarObject.cpp(45,34): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  BulletBehavior.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\BulletBehavior.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  BulletHandler.cpp
+  Collider.cpp
+  DebugRendererFactory.cpp
+  EmptyGameObject.cpp
+  EnemyAirplane.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\EnemyAirplane.cpp(46,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\EnemyAirplane.cpp(46,34): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Generating Code...
+  Compiling...
+  EnemyBehavior.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\EnemyBehavior.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\EnemyBehavior.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\EnemyBehavior.cpp(77,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\EnemyBehavior.cpp(103,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  EnemySwarmHandler.cpp
+  Entity.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  finishBehavior.cpp
+  finishObject.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\finishObject.cpp(21,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\finishObject.cpp(21,34): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  FontManager.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\FontManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Game.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\FontManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  GameObjectManager.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\GameObjectManager.cpp(31,30): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  GameObjectPool.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\GameObjectPool.cpp(153,27): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\GameObjectPool.cpp(158,32): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  GameScene.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\GameScene.cpp(95,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\GameScene.cpp(167,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GameScene2.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\GameScene2.cpp(92,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\GameScene2.cpp(164,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GameScene3.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\GameScene3.cpp(92,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\GameScene3.cpp(164,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GameSystem.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\GameSystem.cpp(75,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\GameSystem.cpp(201,13): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\GameSystem.cpp(288,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  GenericInputController.cpp
+  HUDScreen.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\HUDScreen.cpp(27,59): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\HUDScreen.cpp(27,40): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  InstructionsMenu.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\InstructionsMenu.cpp(26,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\InstructionsMenu.cpp(26,34): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  JSONParser.cpp
+  Main.cpp
+  MainMenuScene.cpp
+  MainMenuScreen.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\MainMenuScreen.cpp(31,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\MainMenuScreen.cpp(31,34): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Generating Code...
+  Compiling...
+  ObjectPoolHolder.cpp
+  OilBehavior.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\OilBehavior.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\OilBehavior.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\OilBehavior.cpp(65,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\OilBehavior.cpp(91,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  OilObject.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\OilObject.cpp(45,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\OilObject.cpp(45,34): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  PhysicsManager.cpp
+  PlayerInputController.cpp
+  PlayerMovement.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\PlayerMovement.cpp(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  ProgressBar.cpp
+  ProgressCarBehavior.cpp
+  ProgressCarObject.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\ProgressCarObject.cpp(31,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\ProgressCarObject.cpp(31,34): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  QuitScreen.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\QuitScreen.cpp(26,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\QuitScreen.cpp(26,34): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Renderer.cpp
+  RendererFactory.cpp
+  SamplePopupScreen.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\SamplePopupScreen.cpp(29,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\SamplePopupScreen.cpp(29,34): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  SceneManager.cpp
+  SFXManager.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\SFXManager.cpp(65,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SpriteRenderer.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\SpriteRenderer.cpp(9,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\SpriteRenderer.cpp(9,34): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  StartMovement.cpp
+  startObject.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\startObject.cpp(18,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\startObject.cpp(18,34): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  TextRenderer.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\FontManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TextRenderer.cpp(12,25): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  TextureManager.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  Compiling...
+  TruckObject.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TruckObject.cpp(49,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TruckObject.cpp(49,34): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  TruckObjectBehavior.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TruckObjectBehavior.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TruckObjectBehavior.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TruckObjectBehavior.cpp(65,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TruckObjectBehavior.cpp(91,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  UIButton.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\UIButton.cpp(24,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\UIButton.cpp(24,34): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  UIButtonInputController.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\UIButtonInputController.cpp(25,63): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\UIButtonInputController.cpp(25,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  UIText.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\FontManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  UtilityBullet.cpp
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\TextureManager.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\UtilityBullet.cpp(25,53): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL\UtilityBullet.cpp(25,34): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Generating Code...
+AComponent.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Time::Time(void)" (__imp_??0Time@sf@@QEAA@XZ) referenced in function "public: __cdecl AComponent::AComponent(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,enum AComponent::ComponentType)" (??0AComponent@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@W4ComponentType@0@@Z)
+AGameObject.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) class sf::Transform __cdecl sf::operator*(class sf::Transform const &,class sf::Transform const &)" (__imp_??Dsf@@YA?AVTransform@0@AEBV10@0@Z) referenced in function "public: void __cdecl AGameObject::draw(class sf::RenderWindow *,class sf::RenderStates)" (?draw@AGameObject@@QEAAXPEAVRenderWindow@sf@@VRenderStates@3@@Z)
+AGameObject.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Transformable::Transformable(void)" (__imp_??0Transformable@sf@@QEAA@XZ) referenced in function "public: __cdecl AGameObject::AGameObject(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0AGameObject@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+AGameObject.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Transformable::~Transformable(void)" (__imp_??1Transformable@sf@@UEAA@XZ) referenced in function "int `public: __cdecl AGameObject::AGameObject(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)'::`1'::dtor$1" (?dtor$1@?0???0AGameObject@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z@4HA)
+ProgressBar.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(float,float)" (__imp_?setPosition@Transformable@sf@@QEAAXMM@Z)
+ProgressCarObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(float,float)" (__imp_?setPosition@Transformable@sf@@QEAAXMM@Z)
+startObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(float,float)" (__imp_?setPosition@Transformable@sf@@QEAAXMM@Z)
+BGObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(float,float)" (__imp_?setPosition@Transformable@sf@@QEAAXMM@Z)
+BGObject2.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(float,float)" (__imp_?setPosition@Transformable@sf@@QEAAXMM@Z)
+BGObject3.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(float,float)" (__imp_?setPosition@Transformable@sf@@QEAAXMM@Z)
+finishBehavior.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(float,float)" (__imp_?setPosition@Transformable@sf@@QEAAXMM@Z)
+AGameObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(float,float)" (__imp_?setPosition@Transformable@sf@@QEAAXMM@Z)
+AirplanePlayer.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(float,float)" (__imp_?setPosition@Transformable@sf@@QEAAXMM@Z)
+AirplaneSupport.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(float,float)" (__imp_?setPosition@Transformable@sf@@QEAAXMM@Z)
+BGMovement.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(float,float)" (__imp_?setPosition@Transformable@sf@@QEAAXMM@Z)
+AGameObject.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: class sf::Transform const & __cdecl sf::Transformable::getTransform(void)const " (__imp_?getTransform@Transformable@sf@@QEBAAEBVTransform@2@XZ) referenced in function "public: void __cdecl AGameObject::draw(class sf::RenderWindow *,class sf::RenderStates)" (?draw@AGameObject@@QEAAXPEAVRenderWindow@sf@@VRenderStates@3@@Z)
+AGameObject.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: static class sf::Transform const sf::Transform::Identity" (__imp_?Identity@Transform@sf@@2V12@B) referenced in function "public: class sf::Transform __cdecl AGameObject::getGlobalTransform(void)" (?getGlobalTransform@AGameObject@@QEAA?AVTransform@sf@@XZ)
+TruckObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setScale(float,float)" (__imp_?setScale@Transformable@sf@@QEAAXMM@Z)
+ProgressBar.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setScale(float,float)" (__imp_?setScale@Transformable@sf@@QEAAXMM@Z)
+ProgressCarObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setScale(float,float)" (__imp_?setScale@Transformable@sf@@QEAAXMM@Z)
+QuitScreen.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setScale(float,float)" (__imp_?setScale@Transformable@sf@@QEAAXMM@Z)
+SamplePopupScreen.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setScale(float,float)" (__imp_?setScale@Transformable@sf@@QEAAXMM@Z)
+HUDScreen.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setScale(float,float)" (__imp_?setScale@Transformable@sf@@QEAAXMM@Z)
+InstructionsMenu.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setScale(float,float)" (__imp_?setScale@Transformable@sf@@QEAAXMM@Z)
+MainMenuScreen.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setScale(float,float)" (__imp_?setScale@Transformable@sf@@QEAAXMM@Z)
+OilObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setScale(float,float)" (__imp_?setScale@Transformable@sf@@QEAAXMM@Z)
+AirplanePlayer.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setScale(float,float)" (__imp_?setScale@Transformable@sf@@QEAAXMM@Z)
+BonusCarObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setScale(float,float)" (__imp_?setScale@Transformable@sf@@QEAAXMM@Z)
+EnemyAirplane.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setScale(float,float)" (__imp_?setScale@Transformable@sf@@QEAAXMM@Z)
+finishObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setScale(float,float)" (__imp_?setScale@Transformable@sf@@QEAAXMM@Z)
+TruckObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Vector2<float> const & __cdecl sf::Transformable::getScale(void)const " (__imp_?getScale@Transformable@sf@@QEBAAEBV?$Vector2@M@2@XZ)
+finishObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Vector2<float> const & __cdecl sf::Transformable::getScale(void)const " (__imp_?getScale@Transformable@sf@@QEBAAEBV?$Vector2@M@2@XZ)
+OilObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Vector2<float> const & __cdecl sf::Transformable::getScale(void)const " (__imp_?getScale@Transformable@sf@@QEBAAEBV?$Vector2@M@2@XZ)
+ProgressBar.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Vector2<float> const & __cdecl sf::Transformable::getScale(void)const " (__imp_?getScale@Transformable@sf@@QEBAAEBV?$Vector2@M@2@XZ)
+ProgressCarObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Vector2<float> const & __cdecl sf::Transformable::getScale(void)const " (__imp_?getScale@Transformable@sf@@QEBAAEBV?$Vector2@M@2@XZ)
+AirplanePlayer.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Vector2<float> const & __cdecl sf::Transformable::getScale(void)const " (__imp_?getScale@Transformable@sf@@QEBAAEBV?$Vector2@M@2@XZ)
+BonusCarObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Vector2<float> const & __cdecl sf::Transformable::getScale(void)const " (__imp_?getScale@Transformable@sf@@QEBAAEBV?$Vector2@M@2@XZ)
+Collider.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Vector2<float> const & __cdecl sf::Transformable::getScale(void)const " (__imp_?getScale@Transformable@sf@@QEBAAEBV?$Vector2@M@2@XZ)
+EnemyAirplane.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Vector2<float> const & __cdecl sf::Transformable::getScale(void)const " (__imp_?getScale@Transformable@sf@@QEBAAEBV?$Vector2@M@2@XZ)
+UIButton.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setOrigin(float,float)" (__imp_?setOrigin@Transformable@sf@@QEAAXMM@Z)
+UIText.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setOrigin(float,float)" (__imp_?setOrigin@Transformable@sf@@QEAAXMM@Z)
+UtilityBullet.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setOrigin(float,float)" (__imp_?setOrigin@Transformable@sf@@QEAAXMM@Z)
+SamplePopupScreen.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setOrigin(float,float)" (__imp_?setOrigin@Transformable@sf@@QEAAXMM@Z)
+SpriteRenderer.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setOrigin(float,float)" (__imp_?setOrigin@Transformable@sf@@QEAAXMM@Z)
+startObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setOrigin(float,float)" (__imp_?setOrigin@Transformable@sf@@QEAAXMM@Z)
+TruckObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setOrigin(float,float)" (__imp_?setOrigin@Transformable@sf@@QEAAXMM@Z)
+OilObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setOrigin(float,float)" (__imp_?setOrigin@Transformable@sf@@QEAAXMM@Z)
+ProgressCarObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setOrigin(float,float)" (__imp_?setOrigin@Transformable@sf@@QEAAXMM@Z)
+QuitScreen.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setOrigin(float,float)" (__imp_?setOrigin@Transformable@sf@@QEAAXMM@Z)
+RendererFactory.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setOrigin(float,float)" (__imp_?setOrigin@Transformable@sf@@QEAAXMM@Z)
+finishObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setOrigin(float,float)" (__imp_?setOrigin@Transformable@sf@@QEAAXMM@Z)
+HUDScreen.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setOrigin(float,float)" (__imp_?setOrigin@Transformable@sf@@QEAAXMM@Z)
+InstructionsMenu.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setOrigin(float,float)" (__imp_?setOrigin@Transformable@sf@@QEAAXMM@Z)
+MainMenuScreen.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setOrigin(float,float)" (__imp_?setOrigin@Transformable@sf@@QEAAXMM@Z)
+AirplaneSupport.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setOrigin(float,float)" (__imp_?setOrigin@Transformable@sf@@QEAAXMM@Z)
+BonusCarObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setOrigin(float,float)" (__imp_?setOrigin@Transformable@sf@@QEAAXMM@Z)
+DebugRendererFactory.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setOrigin(float,float)" (__imp_?setOrigin@Transformable@sf@@QEAAXMM@Z)
+EnemyAirplane.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setOrigin(float,float)" (__imp_?setOrigin@Transformable@sf@@QEAAXMM@Z)
+TruckObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Vector2<unsigned int> __cdecl sf::Texture::getSize(void)const " (__imp_?getSize@Texture@sf@@QEBA?AV?$Vector2@I@2@XZ)
+UIButton.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Vector2<unsigned int> __cdecl sf::Texture::getSize(void)const " (__imp_?getSize@Texture@sf@@QEBA?AV?$Vector2@I@2@XZ)
+UtilityBullet.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Vector2<unsigned int> __cdecl sf::Texture::getSize(void)const " (__imp_?getSize@Texture@sf@@QEBA?AV?$Vector2@I@2@XZ)
+QuitScreen.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Vector2<unsigned int> __cdecl sf::Texture::getSize(void)const " (__imp_?getSize@Texture@sf@@QEBA?AV?$Vector2@I@2@XZ)
+SamplePopupScreen.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Vector2<unsigned int> __cdecl sf::Texture::getSize(void)const " (__imp_?getSize@Texture@sf@@QEBA?AV?$Vector2@I@2@XZ)
+SpriteRenderer.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Vector2<unsigned int> __cdecl sf::Texture::getSize(void)const " (__imp_?getSize@Texture@sf@@QEBA?AV?$Vector2@I@2@XZ)
+startObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Vector2<unsigned int> __cdecl sf::Texture::getSize(void)const " (__imp_?getSize@Texture@sf@@QEBA?AV?$Vector2@I@2@XZ)
+InstructionsMenu.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Vector2<unsigned int> __cdecl sf::Texture::getSize(void)const " (__imp_?getSize@Texture@sf@@QEBA?AV?$Vector2@I@2@XZ)
+MainMenuScreen.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Vector2<unsigned int> __cdecl sf::Texture::getSize(void)const " (__imp_?getSize@Texture@sf@@QEBA?AV?$Vector2@I@2@XZ)
+OilObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Vector2<unsigned int> __cdecl sf::Texture::getSize(void)const " (__imp_?getSize@Texture@sf@@QEBA?AV?$Vector2@I@2@XZ)
+ProgressCarObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Vector2<unsigned int> __cdecl sf::Texture::getSize(void)const " (__imp_?getSize@Texture@sf@@QEBA?AV?$Vector2@I@2@XZ)
+BonusCarObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Vector2<unsigned int> __cdecl sf::Texture::getSize(void)const " (__imp_?getSize@Texture@sf@@QEBA?AV?$Vector2@I@2@XZ)
+EnemyAirplane.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Vector2<unsigned int> __cdecl sf::Texture::getSize(void)const " (__imp_?getSize@Texture@sf@@QEBA?AV?$Vector2@I@2@XZ)
+finishObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Vector2<unsigned int> __cdecl sf::Texture::getSize(void)const " (__imp_?getSize@Texture@sf@@QEBA?AV?$Vector2@I@2@XZ)
+HUDScreen.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Vector2<unsigned int> __cdecl sf::Texture::getSize(void)const " (__imp_?getSize@Texture@sf@@QEBA?AV?$Vector2@I@2@XZ)
+AirplaneSupport.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Vector2<unsigned int> __cdecl sf::Texture::getSize(void)const " (__imp_?getSize@Texture@sf@@QEBA?AV?$Vector2@I@2@XZ)
+BGObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Vector2<unsigned int> __cdecl sf::Texture::getSize(void)const " (__imp_?getSize@Texture@sf@@QEBA?AV?$Vector2@I@2@XZ)
+BGObject2.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Vector2<unsigned int> __cdecl sf::Texture::getSize(void)const " (__imp_?getSize@Texture@sf@@QEBA?AV?$Vector2@I@2@XZ)
+BGObject3.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Vector2<unsigned int> __cdecl sf::Texture::getSize(void)const " (__imp_?getSize@Texture@sf@@QEBA?AV?$Vector2@I@2@XZ)
+startObject.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(void)" (__imp_??0Sprite@sf@@QEAA@XZ) referenced in function "public: virtual void __cdecl startObject::initialize(void)" (?initialize@startObject@@UEAAXXZ)
+TruckObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(void)" (__imp_??0Sprite@sf@@QEAA@XZ)
+UIButton.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(void)" (__imp_??0Sprite@sf@@QEAA@XZ)
+UtilityBullet.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(void)" (__imp_??0Sprite@sf@@QEAA@XZ)
+ProgressCarObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(void)" (__imp_??0Sprite@sf@@QEAA@XZ)
+QuitScreen.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(void)" (__imp_??0Sprite@sf@@QEAA@XZ)
+SamplePopupScreen.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(void)" (__imp_??0Sprite@sf@@QEAA@XZ)
+SpriteRenderer.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(void)" (__imp_??0Sprite@sf@@QEAA@XZ)
+HUDScreen.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(void)" (__imp_??0Sprite@sf@@QEAA@XZ)
+InstructionsMenu.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(void)" (__imp_??0Sprite@sf@@QEAA@XZ)
+MainMenuScreen.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(void)" (__imp_??0Sprite@sf@@QEAA@XZ)
+OilObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(void)" (__imp_??0Sprite@sf@@QEAA@XZ)
+BonusCarObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(void)" (__imp_??0Sprite@sf@@QEAA@XZ)
+EnemyAirplane.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(void)" (__imp_??0Sprite@sf@@QEAA@XZ)
+Entity.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(void)" (__imp_??0Sprite@sf@@QEAA@XZ)
+finishObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(void)" (__imp_??0Sprite@sf@@QEAA@XZ)
+AirplaneSupport.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(void)" (__imp_??0Sprite@sf@@QEAA@XZ)
+BGObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(void)" (__imp_??0Sprite@sf@@QEAA@XZ)
+BGObject2.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(void)" (__imp_??0Sprite@sf@@QEAA@XZ)
+BGObject3.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sprite::Sprite(void)" (__imp_??0Sprite@sf@@QEAA@XZ)
+startObject.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sprite::setTexture(class sf::Texture const &,bool)" (__imp_?setTexture@Sprite@sf@@QEAAXAEBVTexture@2@_N@Z) referenced in function "public: virtual void __cdecl startObject::initialize(void)" (?initialize@startObject@@UEAAXXZ)
+TruckObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sprite::setTexture(class sf::Texture const &,bool)" (__imp_?setTexture@Sprite@sf@@QEAAXAEBVTexture@2@_N@Z)
+UIButton.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sprite::setTexture(class sf::Texture const &,bool)" (__imp_?setTexture@Sprite@sf@@QEAAXAEBVTexture@2@_N@Z)
+UtilityBullet.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sprite::setTexture(class sf::Texture const &,bool)" (__imp_?setTexture@Sprite@sf@@QEAAXAEBVTexture@2@_N@Z)
+ProgressCarObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sprite::setTexture(class sf::Texture const &,bool)" (__imp_?setTexture@Sprite@sf@@QEAAXAEBVTexture@2@_N@Z)
+QuitScreen.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sprite::setTexture(class sf::Texture const &,bool)" (__imp_?setTexture@Sprite@sf@@QEAAXAEBVTexture@2@_N@Z)
+SamplePopupScreen.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sprite::setTexture(class sf::Texture const &,bool)" (__imp_?setTexture@Sprite@sf@@QEAAXAEBVTexture@2@_N@Z)
+SpriteRenderer.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sprite::setTexture(class sf::Texture const &,bool)" (__imp_?setTexture@Sprite@sf@@QEAAXAEBVTexture@2@_N@Z)
+HUDScreen.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sprite::setTexture(class sf::Texture const &,bool)" (__imp_?setTexture@Sprite@sf@@QEAAXAEBVTexture@2@_N@Z)
+InstructionsMenu.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sprite::setTexture(class sf::Texture const &,bool)" (__imp_?setTexture@Sprite@sf@@QEAAXAEBVTexture@2@_N@Z)
+MainMenuScreen.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sprite::setTexture(class sf::Texture const &,bool)" (__imp_?setTexture@Sprite@sf@@QEAAXAEBVTexture@2@_N@Z)
+OilObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sprite::setTexture(class sf::Texture const &,bool)" (__imp_?setTexture@Sprite@sf@@QEAAXAEBVTexture@2@_N@Z)
+BonusCarObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sprite::setTexture(class sf::Texture const &,bool)" (__imp_?setTexture@Sprite@sf@@QEAAXAEBVTexture@2@_N@Z)
+EnemyAirplane.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sprite::setTexture(class sf::Texture const &,bool)" (__imp_?setTexture@Sprite@sf@@QEAAXAEBVTexture@2@_N@Z)
+Entity.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sprite::setTexture(class sf::Texture const &,bool)" (__imp_?setTexture@Sprite@sf@@QEAAXAEBVTexture@2@_N@Z)
+finishObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sprite::setTexture(class sf::Texture const &,bool)" (__imp_?setTexture@Sprite@sf@@QEAAXAEBVTexture@2@_N@Z)
+AirplaneSupport.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sprite::setTexture(class sf::Texture const &,bool)" (__imp_?setTexture@Sprite@sf@@QEAAXAEBVTexture@2@_N@Z)
+BGObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sprite::setTexture(class sf::Texture const &,bool)" (__imp_?setTexture@Sprite@sf@@QEAAXAEBVTexture@2@_N@Z)
+BGObject2.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sprite::setTexture(class sf::Texture const &,bool)" (__imp_?setTexture@Sprite@sf@@QEAAXAEBVTexture@2@_N@Z)
+BGObject3.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sprite::setTexture(class sf::Texture const &,bool)" (__imp_?setTexture@Sprite@sf@@QEAAXAEBVTexture@2@_N@Z)
+TruckObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Texture const * __cdecl sf::Sprite::getTexture(void)const " (__imp_?getTexture@Sprite@sf@@QEBAPEBVTexture@2@XZ)
+UIButton.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Texture const * __cdecl sf::Sprite::getTexture(void)const " (__imp_?getTexture@Sprite@sf@@QEBAPEBVTexture@2@XZ)
+UtilityBullet.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Texture const * __cdecl sf::Sprite::getTexture(void)const " (__imp_?getTexture@Sprite@sf@@QEBAPEBVTexture@2@XZ)
+QuitScreen.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Texture const * __cdecl sf::Sprite::getTexture(void)const " (__imp_?getTexture@Sprite@sf@@QEBAPEBVTexture@2@XZ)
+SamplePopupScreen.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Texture const * __cdecl sf::Sprite::getTexture(void)const " (__imp_?getTexture@Sprite@sf@@QEBAPEBVTexture@2@XZ)
+SpriteRenderer.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Texture const * __cdecl sf::Sprite::getTexture(void)const " (__imp_?getTexture@Sprite@sf@@QEBAPEBVTexture@2@XZ)
+startObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Texture const * __cdecl sf::Sprite::getTexture(void)const " (__imp_?getTexture@Sprite@sf@@QEBAPEBVTexture@2@XZ)
+InstructionsMenu.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Texture const * __cdecl sf::Sprite::getTexture(void)const " (__imp_?getTexture@Sprite@sf@@QEBAPEBVTexture@2@XZ)
+MainMenuScreen.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Texture const * __cdecl sf::Sprite::getTexture(void)const " (__imp_?getTexture@Sprite@sf@@QEBAPEBVTexture@2@XZ)
+OilObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Texture const * __cdecl sf::Sprite::getTexture(void)const " (__imp_?getTexture@Sprite@sf@@QEBAPEBVTexture@2@XZ)
+ProgressCarObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Texture const * __cdecl sf::Sprite::getTexture(void)const " (__imp_?getTexture@Sprite@sf@@QEBAPEBVTexture@2@XZ)
+BonusCarObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Texture const * __cdecl sf::Sprite::getTexture(void)const " (__imp_?getTexture@Sprite@sf@@QEBAPEBVTexture@2@XZ)
+EnemyAirplane.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Texture const * __cdecl sf::Sprite::getTexture(void)const " (__imp_?getTexture@Sprite@sf@@QEBAPEBVTexture@2@XZ)
+finishObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Texture const * __cdecl sf::Sprite::getTexture(void)const " (__imp_?getTexture@Sprite@sf@@QEBAPEBVTexture@2@XZ)
+HUDScreen.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Texture const * __cdecl sf::Sprite::getTexture(void)const " (__imp_?getTexture@Sprite@sf@@QEBAPEBVTexture@2@XZ)
+AirplaneSupport.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Texture const * __cdecl sf::Sprite::getTexture(void)const " (__imp_?getTexture@Sprite@sf@@QEBAPEBVTexture@2@XZ)
+BGObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Texture const * __cdecl sf::Sprite::getTexture(void)const " (__imp_?getTexture@Sprite@sf@@QEBAPEBVTexture@2@XZ)
+BGObject2.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Texture const * __cdecl sf::Sprite::getTexture(void)const " (__imp_?getTexture@Sprite@sf@@QEBAPEBVTexture@2@XZ)
+BGObject3.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Texture const * __cdecl sf::Sprite::getTexture(void)const " (__imp_?getTexture@Sprite@sf@@QEBAPEBVTexture@2@XZ)
+startObject.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ) referenced in function "public: virtual void * __cdecl sf::Sprite::`scalar deleting destructor'(unsigned int)" (??_GSprite@sf@@UEAAPEAXI@Z)
+TruckObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ)
+UIButton.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ)
+UtilityBullet.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ)
+ProgressCarObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ)
+QuitScreen.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ)
+SamplePopupScreen.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ)
+SpriteRenderer.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ)
+HUDScreen.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ)
+InstructionsMenu.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ)
+MainMenuScreen.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ)
+OilObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ)
+BonusCarObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ)
+EnemyAirplane.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ)
+Entity.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ)
+finishObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ)
+AirplaneSupport.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ)
+BGObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ)
+BGObject2.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ)
+BGObject3.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UEAA@XZ)
+TruckObject.obj : error LNK2001: unresolved external symbol "private: virtual void __cdecl sf::Sprite::draw(class sf::RenderTarget &,class sf::RenderStates)const " (?draw@Sprite@sf@@EEBAXAEAVRenderTarget@2@VRenderStates@2@@Z)
+UIButton.obj : error LNK2001: unresolved external symbol "private: virtual void __cdecl sf::Sprite::draw(class sf::RenderTarget &,class sf::RenderStates)const " (?draw@Sprite@sf@@EEBAXAEAVRenderTarget@2@VRenderStates@2@@Z)
+UtilityBullet.obj : error LNK2001: unresolved external symbol "private: virtual void __cdecl sf::Sprite::draw(class sf::RenderTarget &,class sf::RenderStates)const " (?draw@Sprite@sf@@EEBAXAEAVRenderTarget@2@VRenderStates@2@@Z)
+QuitScreen.obj : error LNK2001: unresolved external symbol "private: virtual void __cdecl sf::Sprite::draw(class sf::RenderTarget &,class sf::RenderStates)const " (?draw@Sprite@sf@@EEBAXAEAVRenderTarget@2@VRenderStates@2@@Z)
+SamplePopupScreen.obj : error LNK2001: unresolved external symbol "private: virtual void __cdecl sf::Sprite::draw(class sf::RenderTarget &,class sf::RenderStates)const " (?draw@Sprite@sf@@EEBAXAEAVRenderTarget@2@VRenderStates@2@@Z)
+SpriteRenderer.obj : error LNK2001: unresolved external symbol "private: virtual void __cdecl sf::Sprite::draw(class sf::RenderTarget &,class sf::RenderStates)const " (?draw@Sprite@sf@@EEBAXAEAVRenderTarget@2@VRenderStates@2@@Z)
+startObject.obj : error LNK2001: unresolved external symbol "private: virtual void __cdecl sf::Sprite::draw(class sf::RenderTarget &,class sf::RenderStates)const " (?draw@Sprite@sf@@EEBAXAEAVRenderTarget@2@VRenderStates@2@@Z)
+InstructionsMenu.obj : error LNK2001: unresolved external symbol "private: virtual void __cdecl sf::Sprite::draw(class sf::RenderTarget &,class sf::RenderStates)const " (?draw@Sprite@sf@@EEBAXAEAVRenderTarget@2@VRenderStates@2@@Z)
+MainMenuScreen.obj : error LNK2001: unresolved external symbol "private: virtual void __cdecl sf::Sprite::draw(class sf::RenderTarget &,class sf::RenderStates)const " (?draw@Sprite@sf@@EEBAXAEAVRenderTarget@2@VRenderStates@2@@Z)
+OilObject.obj : error LNK2001: unresolved external symbol "private: virtual void __cdecl sf::Sprite::draw(class sf::RenderTarget &,class sf::RenderStates)const " (?draw@Sprite@sf@@EEBAXAEAVRenderTarget@2@VRenderStates@2@@Z)
+ProgressCarObject.obj : error LNK2001: unresolved external symbol "private: virtual void __cdecl sf::Sprite::draw(class sf::RenderTarget &,class sf::RenderStates)const " (?draw@Sprite@sf@@EEBAXAEAVRenderTarget@2@VRenderStates@2@@Z)
+BonusCarObject.obj : error LNK2001: unresolved external symbol "private: virtual void __cdecl sf::Sprite::draw(class sf::RenderTarget &,class sf::RenderStates)const " (?draw@Sprite@sf@@EEBAXAEAVRenderTarget@2@VRenderStates@2@@Z)
+EnemyAirplane.obj : error LNK2001: unresolved external symbol "private: virtual void __cdecl sf::Sprite::draw(class sf::RenderTarget &,class sf::RenderStates)const " (?draw@Sprite@sf@@EEBAXAEAVRenderTarget@2@VRenderStates@2@@Z)
+finishObject.obj : error LNK2001: unresolved external symbol "private: virtual void __cdecl sf::Sprite::draw(class sf::RenderTarget &,class sf::RenderStates)const " (?draw@Sprite@sf@@EEBAXAEAVRenderTarget@2@VRenderStates@2@@Z)
+HUDScreen.obj : error LNK2001: unresolved external symbol "private: virtual void __cdecl sf::Sprite::draw(class sf::RenderTarget &,class sf::RenderStates)const " (?draw@Sprite@sf@@EEBAXAEAVRenderTarget@2@VRenderStates@2@@Z)
+AirplaneSupport.obj : error LNK2001: unresolved external symbol "private: virtual void __cdecl sf::Sprite::draw(class sf::RenderTarget &,class sf::RenderStates)const " (?draw@Sprite@sf@@EEBAXAEAVRenderTarget@2@VRenderStates@2@@Z)
+BGObject.obj : error LNK2001: unresolved external symbol "private: virtual void __cdecl sf::Sprite::draw(class sf::RenderTarget &,class sf::RenderStates)const " (?draw@Sprite@sf@@EEBAXAEAVRenderTarget@2@VRenderStates@2@@Z)
+BGObject2.obj : error LNK2001: unresolved external symbol "private: virtual void __cdecl sf::Sprite::draw(class sf::RenderTarget &,class sf::RenderStates)const " (?draw@Sprite@sf@@EEBAXAEAVRenderTarget@2@VRenderStates@2@@Z)
+BGObject3.obj : error LNK2001: unresolved external symbol "private: virtual void __cdecl sf::Sprite::draw(class sf::RenderTarget &,class sf::RenderStates)const " (?draw@Sprite@sf@@EEBAXAEAVRenderTarget@2@VRenderStates@2@@Z)
+StartMovement.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: float __cdecl sf::Time::asSeconds(void)const " (__imp_?asSeconds@Time@sf@@QEBAMXZ)
+TruckObjectBehavior.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: float __cdecl sf::Time::asSeconds(void)const " (__imp_?asSeconds@Time@sf@@QEBAMXZ)
+GameSystem.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: float __cdecl sf::Time::asSeconds(void)const " (__imp_?asSeconds@Time@sf@@QEBAMXZ)
+OilBehavior.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: float __cdecl sf::Time::asSeconds(void)const " (__imp_?asSeconds@Time@sf@@QEBAMXZ)
+PlayerMovement.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: float __cdecl sf::Time::asSeconds(void)const " (__imp_?asSeconds@Time@sf@@QEBAMXZ)
+ProgressCarBehavior.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: float __cdecl sf::Time::asSeconds(void)const " (__imp_?asSeconds@Time@sf@@QEBAMXZ)
+Collider.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: float __cdecl sf::Time::asSeconds(void)const " (__imp_?asSeconds@Time@sf@@QEBAMXZ)
+EnemyBehavior.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: float __cdecl sf::Time::asSeconds(void)const " (__imp_?asSeconds@Time@sf@@QEBAMXZ)
+EnemySwarmHandler.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: float __cdecl sf::Time::asSeconds(void)const " (__imp_?asSeconds@Time@sf@@QEBAMXZ)
+finishBehavior.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: float __cdecl sf::Time::asSeconds(void)const " (__imp_?asSeconds@Time@sf@@QEBAMXZ)
+AirplaneSupportMovement.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: float __cdecl sf::Time::asSeconds(void)const " (__imp_?asSeconds@Time@sf@@QEBAMXZ)
+BGMovement.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: float __cdecl sf::Time::asSeconds(void)const " (__imp_?asSeconds@Time@sf@@QEBAMXZ)
+BonusCarBehavior.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: float __cdecl sf::Time::asSeconds(void)const " (__imp_?asSeconds@Time@sf@@QEBAMXZ)
+BulletBehavior.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: float __cdecl sf::Time::asSeconds(void)const " (__imp_?asSeconds@Time@sf@@QEBAMXZ)
+PlayerMovement.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Vector2<float> const & __cdecl sf::Transformable::getPosition(void)const " (__imp_?getPosition@Transformable@sf@@QEBAAEBV?$Vector2@M@2@XZ)
+TruckObjectBehavior.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Vector2<float> const & __cdecl sf::Transformable::getPosition(void)const " (__imp_?getPosition@Transformable@sf@@QEBAAEBV?$Vector2@M@2@XZ)
+UtilityBullet.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Vector2<float> const & __cdecl sf::Transformable::getPosition(void)const " (__imp_?getPosition@Transformable@sf@@QEBAAEBV?$Vector2@M@2@XZ)
+Collider.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Vector2<float> const & __cdecl sf::Transformable::getPosition(void)const " (__imp_?getPosition@Transformable@sf@@QEBAAEBV?$Vector2@M@2@XZ)
+EnemyBehavior.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Vector2<float> const & __cdecl sf::Transformable::getPosition(void)const " (__imp_?getPosition@Transformable@sf@@QEBAAEBV?$Vector2@M@2@XZ)
+finishBehavior.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Vector2<float> const & __cdecl sf::Transformable::getPosition(void)const " (__imp_?getPosition@Transformable@sf@@QEBAAEBV?$Vector2@M@2@XZ)
+OilBehavior.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Vector2<float> const & __cdecl sf::Transformable::getPosition(void)const " (__imp_?getPosition@Transformable@sf@@QEBAAEBV?$Vector2@M@2@XZ)
+AirplaneSupportMovement.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Vector2<float> const & __cdecl sf::Transformable::getPosition(void)const " (__imp_?getPosition@Transformable@sf@@QEBAAEBV?$Vector2@M@2@XZ)
+BGMovement.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Vector2<float> const & __cdecl sf::Transformable::getPosition(void)const " (__imp_?getPosition@Transformable@sf@@QEBAAEBV?$Vector2@M@2@XZ)
+BonusCarBehavior.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Vector2<float> const & __cdecl sf::Transformable::getPosition(void)const " (__imp_?getPosition@Transformable@sf@@QEBAAEBV?$Vector2@M@2@XZ)
+BulletBehavior.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Vector2<float> const & __cdecl sf::Transformable::getPosition(void)const " (__imp_?getPosition@Transformable@sf@@QEBAAEBV?$Vector2@M@2@XZ)
+TruckObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::move(float,float)" (__imp_?move@Transformable@sf@@QEAAXMM@Z)
+TruckObjectBehavior.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::move(float,float)" (__imp_?move@Transformable@sf@@QEAAXMM@Z)
+OilBehavior.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::move(float,float)" (__imp_?move@Transformable@sf@@QEAAXMM@Z)
+OilObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::move(float,float)" (__imp_?move@Transformable@sf@@QEAAXMM@Z)
+ProgressCarBehavior.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::move(float,float)" (__imp_?move@Transformable@sf@@QEAAXMM@Z)
+StartMovement.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::move(float,float)" (__imp_?move@Transformable@sf@@QEAAXMM@Z)
+Collider.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::move(float,float)" (__imp_?move@Transformable@sf@@QEAAXMM@Z)
+EnemyAirplane.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::move(float,float)" (__imp_?move@Transformable@sf@@QEAAXMM@Z)
+EnemyBehavior.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::move(float,float)" (__imp_?move@Transformable@sf@@QEAAXMM@Z)
+finishBehavior.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::move(float,float)" (__imp_?move@Transformable@sf@@QEAAXMM@Z)
+AirplaneSupportMovement.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::move(float,float)" (__imp_?move@Transformable@sf@@QEAAXMM@Z)
+BonusCarBehavior.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::move(float,float)" (__imp_?move@Transformable@sf@@QEAAXMM@Z)
+BonusCarObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::move(float,float)" (__imp_?move@Transformable@sf@@QEAAXMM@Z)
+BulletBehavior.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::move(float,float)" (__imp_?move@Transformable@sf@@QEAAXMM@Z)
+ApplicationManager.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Window::close(void)" (__imp_?close@Window@sf@@QEAAXXZ) referenced in function "public: void __cdecl ApplicationManager::applicationQuit(void)" (?applicationQuit@ApplicationManager@@QEAAXXZ)
+Game.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Window::close(void)" (__imp_?close@Window@sf@@QEAAXXZ)
+BGMovement.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::move(class sf::Vector2<float> const &)" (__imp_?move@Transformable@sf@@QEAAXAEBV?$Vector2@M@2@@Z) referenced in function "public: virtual void __cdecl BGMovement::perform(void)" (?perform@BGMovement@@UEAAXXZ)
+PlayerMovement.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::move(class sf::Vector2<float> const &)" (__imp_?move@Transformable@sf@@QEAAXAEBV?$Vector2@M@2@@Z)
+EnemyAirplane.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sprite::setTextureRect(class sf::Rect<int> const &)" (__imp_?setTextureRect@Sprite@sf@@QEAAXAEBV?$Rect@H@2@@Z)
+OilObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sprite::setTextureRect(class sf::Rect<int> const &)" (__imp_?setTextureRect@Sprite@sf@@QEAAXAEBV?$Rect@H@2@@Z)
+ProgressCarObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sprite::setTextureRect(class sf::Rect<int> const &)" (__imp_?setTextureRect@Sprite@sf@@QEAAXAEBV?$Rect@H@2@@Z)
+TruckObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sprite::setTextureRect(class sf::Rect<int> const &)" (__imp_?setTextureRect@Sprite@sf@@QEAAXAEBV?$Rect@H@2@@Z)
+BGObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sprite::setTextureRect(class sf::Rect<int> const &)" (__imp_?setTextureRect@Sprite@sf@@QEAAXAEBV?$Rect@H@2@@Z)
+BGObject2.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sprite::setTextureRect(class sf::Rect<int> const &)" (__imp_?setTextureRect@Sprite@sf@@QEAAXAEBV?$Rect@H@2@@Z)
+BGObject3.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sprite::setTextureRect(class sf::Rect<int> const &)" (__imp_?setTextureRect@Sprite@sf@@QEAAXAEBV?$Rect@H@2@@Z)
+BonusCarObject.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sprite::setTextureRect(class sf::Rect<int> const &)" (__imp_?setTextureRect@Sprite@sf@@QEAAXAEBV?$Rect@H@2@@Z)
+Collider.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: class sf::Rect<float> __cdecl sf::Transform::transformRect(class sf::Rect<float> const &)const " (__imp_?transformRect@Transform@sf@@QEBA?AV?$Rect@M@2@AEBV32@@Z) referenced in function "public: class sf::Rect<float> __cdecl Collider::getGlobalBounds(void)" (?getGlobalBounds@Collider@@QEAA?AV?$Rect@M@sf@@XZ)
+UIButton.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Rect<float> __cdecl sf::Transform::transformRect(class sf::Rect<float> const &)const " (__imp_?transformRect@Transform@sf@@QEBA?AV?$Rect@M@2@AEBV32@@Z)
+Collider.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setPosition(class sf::Vector2<float> const &)" (__imp_?setPosition@Transformable@sf@@QEAAXAEBV?$Vector2@M@2@@Z) referenced in function "public: virtual void __cdecl Collider::perform(void)" (?perform@Collider@@UEAAXXZ)
+Collider.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::setRotation(float)" (__imp_?setRotation@Transformable@sf@@QEAAXM@Z) referenced in function "public: virtual void __cdecl Collider::perform(void)" (?perform@Collider@@UEAAXXZ)
+Collider.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Transformable::rotate(float)" (__imp_?rotate@Transformable@sf@@QEAAXM@Z) referenced in function "public: virtual void __cdecl Collider::perform(void)" (?perform@Collider@@UEAAXXZ)
+Collider.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) bool __cdecl sf::operator==(class sf::Color const &,class sf::Color const &)" (__imp_??8sf@@YA_NAEBVColor@0@0@Z) referenced in function "public: virtual void __cdecl Collider::perform(void)" (?perform@Collider@@UEAAXXZ)
+Collider.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sprite::setColor(class sf::Color const &)" (__imp_?setColor@Sprite@sf@@QEAAXAEBVColor@2@@Z) referenced in function "public: virtual void __cdecl Collider::perform(void)" (?perform@Collider@@UEAAXXZ)
+Collider.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: class sf::Color const & __cdecl sf::Sprite::getColor(void)const " (__imp_?getColor@Sprite@sf@@QEBAAEBVColor@2@XZ) referenced in function "public: virtual void __cdecl Collider::perform(void)" (?perform@Collider@@UEAAXXZ)
+Collider.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: class sf::Rect<float> __cdecl sf::Sprite::getGlobalBounds(void)const " (__imp_?getGlobalBounds@Sprite@sf@@QEBA?AV?$Rect@M@2@XZ) referenced in function "public: class sf::Rect<float> __cdecl Collider::getGlobalBounds(void)" (?getGlobalBounds@Collider@@QEAA?AV?$Rect@M@sf@@XZ)
+UIButton.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Rect<float> __cdecl sf::Sprite::getGlobalBounds(void)const " (__imp_?getGlobalBounds@Sprite@sf@@QEBA?AV?$Rect@M@2@XZ)
+Collider.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: static class sf::Color const sf::Color::White" (__imp_?White@Color@sf@@2V12@B) referenced in function "public: virtual void __cdecl Collider::perform(void)" (?perform@Collider@@UEAAXXZ)
+UIText.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::Color const sf::Color::White" (__imp_?White@Color@sf@@2V12@B)
+Collider.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: static class sf::Color const sf::Color::Red" (__imp_?Red@Color@sf@@2V12@B) referenced in function "public: virtual void __cdecl Collider::perform(void)" (?perform@Collider@@UEAAXXZ)
+DebugRendererFactory.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::Color const sf::Color::Red" (__imp_?Red@Color@sf@@2V12@B)
+DebugRendererFactory.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Shape::setFillColor(class sf::Color const &)" (__imp_?setFillColor@Shape@sf@@QEAAXAEBVColor@2@@Z) referenced in function "public: virtual class Renderer * __cdecl DebugRendererFactory::createSprite(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?createSprite@DebugRendererFactory@@UEAAPEAVRenderer@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z)
+DebugRendererFactory.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::CircleShape::CircleShape(float,unsigned __int64)" (__imp_??0CircleShape@sf@@QEAA@M_K@Z) referenced in function "public: virtual class Renderer * __cdecl DebugRendererFactory::createCircle(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,float)" (?createCircle@DebugRendererFactory@@UEAAPEAVRenderer@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@M@Z)
+RendererFactory.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::CircleShape::CircleShape(float,unsigned __int64)" (__imp_??0CircleShape@sf@@QEAA@M_K@Z)
+DebugRendererFactory.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::CircleShape::~CircleShape(void)" (__imp_??1CircleShape@sf@@UEAA@XZ) referenced in function "public: virtual void * __cdecl sf::CircleShape::`scalar deleting destructor'(unsigned int)" (??_GCircleShape@sf@@UEAAPEAXI@Z)
+RendererFactory.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::CircleShape::~CircleShape(void)" (__imp_??1CircleShape@sf@@UEAA@XZ)
+DebugRendererFactory.obj : error LNK2001: unresolved external symbol "private: virtual void __cdecl sf::Shape::draw(class sf::RenderTarget &,class sf::RenderStates)const " (?draw@Shape@sf@@EEBAXAEAVRenderTarget@2@VRenderStates@2@@Z)
+RendererFactory.obj : error LNK2001: unresolved external symbol "private: virtual void __cdecl sf::Shape::draw(class sf::RenderTarget &,class sf::RenderStates)const " (?draw@Shape@sf@@EEBAXAEAVRenderTarget@2@VRenderStates@2@@Z)
+DebugRendererFactory.obj : error LNK2001: unresolved external symbol "public: virtual class sf::Vector2<float> __cdecl sf::CircleShape::getPoint(unsigned __int64)const " (?getPoint@CircleShape@sf@@UEBA?AV?$Vector2@M@2@_K@Z)
+RendererFactory.obj : error LNK2001: unresolved external symbol "public: virtual class sf::Vector2<float> __cdecl sf::CircleShape::getPoint(unsigned __int64)const " (?getPoint@CircleShape@sf@@UEBA?AV?$Vector2@M@2@_K@Z)
+DebugRendererFactory.obj : error LNK2001: unresolved external symbol "public: virtual unsigned __int64 __cdecl sf::CircleShape::getPointCount(void)const " (?getPointCount@CircleShape@sf@@UEBA_KXZ)
+RendererFactory.obj : error LNK2001: unresolved external symbol "public: virtual unsigned __int64 __cdecl sf::CircleShape::getPointCount(void)const " (?getPointCount@CircleShape@sf@@UEBA_KXZ)
+Entity.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: int __cdecl sf::Time::asMilliseconds(void)const " (__imp_?asMilliseconds@Time@sf@@QEBAHXZ) referenced in function "public: void __cdecl Entity::update(void)" (?update@Entity@@QEAAXXZ)
+Entity.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Clock::Clock(void)" (__imp_??0Clock@sf@@QEAA@XZ) referenced in function "public: __cdecl Entity::Entity(void)" (??0Entity@@QEAA@XZ)
+Game.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Clock::Clock(void)" (__imp_??0Clock@sf@@QEAA@XZ)
+Entity.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: class sf::Time __cdecl sf::Clock::getElapsedTime(void)const " (__imp_?getElapsedTime@Clock@sf@@QEBA?AVTime@2@XZ) referenced in function "public: void __cdecl Entity::update(void)" (?update@Entity@@QEAAXXZ)
+Entity.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: class sf::Time __cdecl sf::Clock::restart(void)" (__imp_?restart@Clock@sf@@QEAA?AVTime@2@XZ) referenced in function "public: void __cdecl Entity::update(void)" (?update@Entity@@QEAAXXZ)
+Game.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Time __cdecl sf::Clock::restart(void)" (__imp_?restart@Clock@sf@@QEAA?AVTime@2@XZ)
+Entity.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Texture::Texture(void)" (__imp_??0Texture@sf@@QEAA@XZ) referenced in function "public: __cdecl Entity::Entity(void)" (??0Entity@@QEAA@XZ)
+TextureManager.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Texture::Texture(void)" (__imp_??0Texture@sf@@QEAA@XZ)
+Entity.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Texture::Texture(class sf::Texture const &)" (__imp_??0Texture@sf@@QEAA@AEBV01@@Z) referenced in function "public: void __cdecl Entity::update(void)" (?update@Entity@@QEAAXXZ)
+Entity.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Texture::~Texture(void)" (__imp_??1Texture@sf@@QEAA@XZ) referenced in function "int `public: __cdecl Entity::Entity(void)'::`1'::dtor$1" (?dtor$1@?0???0Entity@@QEAA@XZ@4HA)
+Entity.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: class sf::Texture & __cdecl sf::Texture::operator=(class sf::Texture const &)" (__imp_??4Texture@sf@@QEAAAEAV01@AEBV01@@Z) referenced in function "public: void __cdecl Entity::setTexture(class sf::Texture)" (?setTexture@Entity@@QEAAXVTexture@sf@@@Z)
+FontManager.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Font::Font(void)" (__imp_??0Font@sf@@QEAA@XZ) referenced in function "private: void __cdecl FontManager::loadFont(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?loadFont@FontManager@@AEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z)
+FontManager.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Font::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (__imp_?loadFromFile@Font@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) referenced in function "private: void __cdecl FontManager::loadFont(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?loadFont@FontManager@@AEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z)
+Game.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) class sf::Time __cdecl sf::seconds(float)" (__imp_?seconds@sf@@YA?AVTime@1@M@Z) referenced in function "public: __cdecl Game::Game(void)" (??0Game@@QEAA@XZ)
+Game.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) bool __cdecl sf::operator>(class sf::Time,class sf::Time)" (__imp_??Osf@@YA_NVTime@0@0@Z) referenced in function "public: void __cdecl Game::run(void)" (?run@Game@@QEAAXXZ)
+Game.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) class sf::Time & __cdecl sf::operator+=(class sf::Time &,class sf::Time)" (__imp_??Ysf@@YAAEAVTime@0@AEAV10@V10@@Z) referenced in function "public: void __cdecl Game::run(void)" (?run@Game@@QEAAXXZ)
+Game.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) class sf::Time & __cdecl sf::operator-=(class sf::Time &,class sf::Time)" (__imp_??Zsf@@YAAEAVTime@0@AEAV10@V10@@Z) referenced in function "public: void __cdecl Game::run(void)" (?run@Game@@QEAAXXZ)
+Game.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::String(char const *,class std::locale const &)" (__imp_??0String@sf@@QEAA@PEBDAEBVlocale@std@@@Z) referenced in function "public: __cdecl Game::Game(void)" (??0Game@@QEAA@XZ)
+Game.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::~String(void)" (__imp_??1String@sf@@QEAA@XZ) referenced in function "public: __cdecl Game::Game(void)" (??0Game@@QEAA@XZ)
+TextRenderer.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::~String(void)" (__imp_??1String@sf@@QEAA@XZ)
+UIText.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::~String(void)" (__imp_??1String@sf@@QEAA@XZ)
+Game.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::VideoMode::VideoMode(unsigned int,unsigned int,unsigned int)" (__imp_??0VideoMode@sf@@QEAA@III@Z) referenced in function "public: __cdecl Game::Game(void)" (??0Game@@QEAA@XZ)
+Game.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Window::isOpen(void)const " (__imp_?isOpen@Window@sf@@QEBA_NXZ) referenced in function "public: void __cdecl Game::run(void)" (?run@Game@@QEAAXXZ)
+Game.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Window::pollEvent(class sf::Event &)" (__imp_?pollEvent@Window@sf@@QEAA_NAEAVEvent@2@@Z) referenced in function "private: void __cdecl Game::processEvents(void)" (?processEvents@Game@@AEAAXXZ)
+Game.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Window::display(void)" (__imp_?display@Window@sf@@QEAAXXZ) referenced in function "private: void __cdecl Game::render(void)" (?render@Game@@AEAAXXZ)
+Game.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Color::Color(unsigned char,unsigned char,unsigned char,unsigned char)" (__imp_??0Color@sf@@QEAA@EEEE@Z) referenced in function "private: void __cdecl Game::render(void)" (?render@Game@@AEAAXXZ)
+Game.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::RenderTarget::clear(class sf::Color const &)" (__imp_?clear@RenderTarget@sf@@QEAAXAEBVColor@2@@Z) referenced in function "private: void __cdecl Game::render(void)" (?render@Game@@AEAAXXZ)
+Game.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::RenderWindow::RenderWindow(class sf::VideoMode,class sf::String const &,unsigned int,struct sf::ContextSettings const &)" (__imp_??0RenderWindow@sf@@QEAA@VVideoMode@1@AEBVString@1@IAEBUContextSettings@1@@Z) referenced in function "public: __cdecl Game::Game(void)" (??0Game@@QEAA@XZ)
+Game.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::RenderWindow::~RenderWindow(void)" (__imp_??1RenderWindow@sf@@UEAA@XZ) referenced in function "int `public: __cdecl Game::Game(void)'::`1'::dtor$2" (?dtor$2@?0???0Game@@QEAA@XZ@4HA)
+Main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::RenderWindow::~RenderWindow(void)" (__imp_??1RenderWindow@sf@@UEAA@XZ)
+Game.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: static class sf::Time const sf::Time::Zero" (__imp_?Zero@Time@sf@@2V12@B) referenced in function "public: void __cdecl Game::run(void)" (?run@Game@@QEAAXXZ)
+GameObjectManager.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) protected: __cdecl sf::NonCopyable::NonCopyable(void)" (__imp_??0NonCopyable@sf@@IEAA@XZ) referenced in function "private: __cdecl GameObjectManager::GameObjectManager(void)" (??0GameObjectManager@@AEAA@XZ)
+GameObjectManager.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) protected: __cdecl sf::NonCopyable::~NonCopyable(void)" (__imp_??1NonCopyable@sf@@IEAA@XZ) referenced in function "int `private: __cdecl GameObjectManager::GameObjectManager(void)'::`1'::dtor$0" (?dtor$0@?0???0GameObjectManager@@AEAA@XZ@4HA)
+GameObjectManager.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: static class sf::RenderStates const sf::RenderStates::Default" (__imp_?Default@RenderStates@sf@@2V12@B) referenced in function "public: void __cdecl GameObjectManager::draw(class sf::RenderWindow *)" (?draw@GameObjectManager@@QEAAXPEAVRenderWindow@sf@@@Z)
+Renderer.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::RenderStates const sf::RenderStates::Default" (__imp_?Default@RenderStates@sf@@2V12@B)
+Renderer.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &)" (__imp_?draw@RenderTarget@sf@@QEAAXAEBVDrawable@2@AEBVRenderStates@2@@Z) referenced in function "public: virtual void __cdecl Renderer::perform(void)" (?perform@Renderer@@UEAAXXZ)
+SFXManager.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::SoundSource::setVolume(float)" (__imp_?setVolume@SoundSource@sf@@QEAAXM@Z) referenced in function "public: void __cdecl SFXManager::soundVolume(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int)" (?soundVolume@SFXManager@@QEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@H@Z)
+SFXManager.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Sound::Sound(void)" (__imp_??0Sound@sf@@QEAA@XZ) referenced in function "private: void __cdecl SFXManager::loadAudio(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?loadAudio@SFXManager@@AEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z)
+SFXManager.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Sound::~Sound(void)" (__imp_??1Sound@sf@@UEAA@XZ) referenced in function "public: virtual void * __cdecl sf::Sound::`scalar deleting destructor'(unsigned int)" (??_GSound@sf@@UEAAPEAXI@Z)
+SFXManager.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sound::setBuffer(class sf::SoundBuffer const &)" (__imp_?setBuffer@Sound@sf@@QEAAXAEBVSoundBuffer@2@@Z) referenced in function "private: void __cdecl SFXManager::loadAudio(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?loadAudio@SFXManager@@AEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z)
+SFXManager.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Sound::setLoop(bool)" (__imp_?setLoop@Sound@sf@@QEAAX_N@Z) referenced in function "public: void __cdecl SFXManager::loopSound(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,bool)" (?loopSound@SFXManager@@QEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_N@Z)
+SFXManager.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::SoundBuffer::SoundBuffer(void)" (__imp_??0SoundBuffer@sf@@QEAA@XZ) referenced in function "private: void __cdecl SFXManager::loadAudio(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?loadAudio@SFXManager@@AEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z)
+SFXManager.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::SoundBuffer::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (__imp_?loadFromFile@SoundBuffer@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) referenced in function "private: void __cdecl SFXManager::loadAudio(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?loadAudio@SFXManager@@AEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0@Z)
+SFXManager.obj : error LNK2001: unresolved external symbol "public: virtual enum sf::SoundSource::Status __cdecl sf::Sound::getStatus(void)const " (?getStatus@Sound@sf@@UEBA?AW4Status@SoundSource@2@XZ)
+SFXManager.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl sf::Sound::pause(void)" (?pause@Sound@sf@@UEAAXXZ)
+SFXManager.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl sf::Sound::play(void)" (?play@Sound@sf@@UEAAXXZ)
+SFXManager.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl sf::Sound::stop(void)" (?stop@Sound@sf@@UEAAXXZ)
+TextRenderer.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::String(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::locale const &)" (__imp_??0String@sf@@QEAA@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBVlocale@3@@Z) referenced in function "public: __cdecl TextRenderer::TextRenderer(class sf::Text *,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class sf::Color const &,class sf::Color const &,float,float,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0TextRenderer@@QEAA@PEAVText@sf@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBVColor@2@2MM1@Z)
+UIText.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::String(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class std::locale const &)" (__imp_??0String@sf@@QEAA@AEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBVlocale@3@@Z)
+TextRenderer.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Text::setString(class sf::String const &)" (__imp_?setString@Text@sf@@QEAAXAEBVString@2@@Z) referenced in function "public: __cdecl TextRenderer::TextRenderer(class sf::Text *,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class sf::Color const &,class sf::Color const &,float,float,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0TextRenderer@@QEAA@PEAVText@sf@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBVColor@2@2MM1@Z)
+UIText.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Text::setString(class sf::String const &)" (__imp_?setString@Text@sf@@QEAAXAEBVString@2@@Z)
+TextRenderer.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Text::setFont(class sf::Font const &)" (__imp_?setFont@Text@sf@@QEAAXAEBVFont@2@@Z) referenced in function "public: __cdecl TextRenderer::TextRenderer(class sf::Text *,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class sf::Color const &,class sf::Color const &,float,float,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0TextRenderer@@QEAA@PEAVText@sf@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBVColor@2@2MM1@Z)
+UIText.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Text::setFont(class sf::Font const &)" (__imp_?setFont@Text@sf@@QEAAXAEBVFont@2@@Z)
+TextRenderer.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Text::setCharacterSize(unsigned int)" (__imp_?setCharacterSize@Text@sf@@QEAAXI@Z) referenced in function "public: __cdecl TextRenderer::TextRenderer(class sf::Text *,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class sf::Color const &,class sf::Color const &,float,float,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0TextRenderer@@QEAA@PEAVText@sf@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBVColor@2@2MM1@Z)
+UIText.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Text::setCharacterSize(unsigned int)" (__imp_?setCharacterSize@Text@sf@@QEAAXI@Z)
+TextRenderer.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Text::setFillColor(class sf::Color const &)" (__imp_?setFillColor@Text@sf@@QEAAXAEBVColor@2@@Z) referenced in function "public: __cdecl TextRenderer::TextRenderer(class sf::Text *,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class sf::Color const &,class sf::Color const &,float,float,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0TextRenderer@@QEAA@PEAVText@sf@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBVColor@2@2MM1@Z)
+UIText.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Text::setFillColor(class sf::Color const &)" (__imp_?setFillColor@Text@sf@@QEAAXAEBVColor@2@@Z)
+TextRenderer.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Text::setOutlineColor(class sf::Color const &)" (__imp_?setOutlineColor@Text@sf@@QEAAXAEBVColor@2@@Z) referenced in function "public: __cdecl TextRenderer::TextRenderer(class sf::Text *,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class sf::Color const &,class sf::Color const &,float,float,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0TextRenderer@@QEAA@PEAVText@sf@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBVColor@2@2MM1@Z)
+UIText.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Text::setOutlineColor(class sf::Color const &)" (__imp_?setOutlineColor@Text@sf@@QEAAXAEBVColor@2@@Z)
+TextRenderer.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Text::setOutlineThickness(float)" (__imp_?setOutlineThickness@Text@sf@@QEAAXM@Z) referenced in function "public: __cdecl TextRenderer::TextRenderer(class sf::Text *,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class sf::Color const &,class sf::Color const &,float,float,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0TextRenderer@@QEAA@PEAVText@sf@@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBVColor@2@2MM1@Z)
+UIText.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Text::setOutlineThickness(float)" (__imp_?setOutlineThickness@Text@sf@@QEAAXM@Z)
+TextureManager.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: bool __cdecl sf::Texture::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class sf::Rect<int> const &)" (__imp_?loadFromFile@Texture@sf@@QEAA_NAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@AEBV?$Rect@H@2@@Z) referenced in function "public: void __cdecl TextureManager::jsonLoad(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?jsonLoad@TextureManager@@QEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+TextureManager.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: void __cdecl sf::Texture::setRepeated(bool)" (__imp_?setRepeated@Texture@sf@@QEAAX_N@Z) referenced in function "public: void __cdecl TextureManager::loadAll(void)" (?loadAll@TextureManager@@QEAAXXZ)
+UIButton.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: class sf::Rect<float> __cdecl sf::Sprite::getLocalBounds(void)const " (__imp_?getLocalBounds@Sprite@sf@@QEBA?AV?$Rect@M@2@XZ) referenced in function "public: virtual class sf::Rect<float> __cdecl UIButton::getLocalBounds(void)" (?getLocalBounds@UIButton@@UEAA?AV?$Rect@M@sf@@XZ)
+UIText.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::String::operator class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >(void)const " (__imp_??BString@sf@@QEBA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ) referenced in function "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl UIText::getText(void)" (?getText@UIText@@QEAA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ)
+UIText.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: __cdecl sf::Text::Text(void)" (__imp_??0Text@sf@@QEAA@XZ) referenced in function "public: __cdecl UIText::UIText(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0UIText@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+UIText.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: class sf::String const & __cdecl sf::Text::getString(void)const " (__imp_?getString@Text@sf@@QEBAAEBVString@2@XZ) referenced in function "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __cdecl UIText::getText(void)" (?getText@UIText@@QEAA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ)
+UIText.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: class sf::Rect<float> __cdecl sf::Text::getLocalBounds(void)const " (__imp_?getLocalBounds@Text@sf@@QEBA?AV?$Rect@M@2@XZ) referenced in function "public: void __cdecl UIText::setText(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?setText@UIText@@QEAAXV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+UIText.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: virtual __cdecl sf::Text::~Text(void)" (__imp_??1Text@sf@@UEAA@XZ) referenced in function "public: virtual void * __cdecl sf::Text::`scalar deleting destructor'(unsigned int)" (??_GText@sf@@UEAAPEAXI@Z)
+UIText.obj : error LNK2001: unresolved external symbol "private: virtual void __cdecl sf::Text::draw(class sf::RenderTarget &,class sf::RenderStates)const " (?draw@Text@sf@@EEBAXAEAVRenderTarget@2@VRenderStates@2@@Z)
+UIText.obj : error LNK2019: unresolved external symbol "__declspec(dllimport) public: static class sf::Color const sf::Color::Black" (__imp_?Black@Color@sf@@2V12@B) referenced in function "public: virtual void __cdecl UIText::initialize(void)" (?initialize@UIText@@UEAAXXZ)
+C:\Users\11929057\Desktop\SFML-2.5.1\lib\freetype.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\11929057\Desktop\SFML-2.5.1\lib\openal32.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\11929057\Desktop\SFML-2.5.1\lib\flac.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\11929057\Desktop\SFML-2.5.1\lib\vorbisenc.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\11929057\Desktop\SFML-2.5.1\lib\vorbisfile.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\11929057\Desktop\SFML-2.5.1\lib\vorbis.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\11929057\Desktop\SFML-2.5.1\lib\ogg.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\11929057\Desktop\SFML-2.5.1\lib\sfml-system-d.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\11929057\Desktop\SFML-2.5.1\lib\sfml-graphics-d.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\11929057\Desktop\SFML-2.5.1\lib\sfml-audio-d.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\11929057\Desktop\SFML-2.5.1\lib\sfml-network-d.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\11929057\Desktop\SFML-2.5.1\lib\sfml-window-d.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\11929057\Desktop\Programming Softwares\MO-ALAIN_CELESTIAL\x64\Debug\GDPROG3_MP_CREENCIA_CELESTIAL.exe : fatal error LNK1120: 95 unresolved externals

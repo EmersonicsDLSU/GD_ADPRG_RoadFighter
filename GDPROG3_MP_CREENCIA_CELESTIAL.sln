@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GDPROG3_MP_CREENCIA_CELESTIAL", "GDPROG3_MP_CREENCIA_CELESTIAL\GDPROG3_MP_CREENCIA_CELESTIAL.vcxproj", "{E4703D57-C9B1-4CBA-A63E-C7CEA81AA55B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4703D57-C9B1-4CBA-A63E-C7CEA81AA55B}.Debug|x64.ActiveCfg = Debug|x64
+		{E4703D57-C9B1-4CBA-A63E-C7CEA81AA55B}.Debug|x64.Build.0 = Debug|x64
+		{E4703D57-C9B1-4CBA-A63E-C7CEA81AA55B}.Debug|x86.ActiveCfg = Debug|Win32
+		{E4703D57-C9B1-4CBA-A63E-C7CEA81AA55B}.Debug|x86.Build.0 = Debug|Win32
+		{E4703D57-C9B1-4CBA-A63E-C7CEA81AA55B}.Release|x64.ActiveCfg = Release|x64
+		{E4703D57-C9B1-4CBA-A63E-C7CEA81AA55B}.Release|x64.Build.0 = Release|x64
+		{E4703D57-C9B1-4CBA-A63E-C7CEA81AA55B}.Release|x86.ActiveCfg = Release|Win32
+		{E4703D57-C9B1-4CBA-A63E-C7CEA81AA55B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {769871AF-908D-4B4F-8000-564B3B9B6C55}
+	EndGlobalSection
+EndGlobal
